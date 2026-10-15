@@ -51,3 +51,5 @@ python3 scripts/winapp.py build-helper --arch 64 --output .local/winui64.exe
 ```
 
 本仓库只包含自己的源码、文档和合成演示截图，不分发第三方安装包、运行库、授权信息或个人资料。MIT 许可证；第三方软件遵循各自许可证。
+
+发布记录：[v0.1.0](https://github.com/LIghtJUNction/linux-windows-apps/releases/tag/v0.1.0) · [X 实测演示帖](https://x.com/LIghtJUNction_x/status/2110815125137772608)

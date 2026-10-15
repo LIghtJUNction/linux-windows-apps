@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Apps on Linux"
+  short_description: "Install and control Windows apps in scoped Linux Wine environments"
+  default_prompt: "Use $linux-windows-apps to install and control this Windows application on Linux without interrupting my desktop."
